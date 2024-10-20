@@ -36,8 +36,8 @@ The **Patient Diagnosis and Drug Recommendation System (PDDRS)** is a web-based 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/nikk1111111/pddrs.git
-   cd pddrs
+   git clone https://github.com/nikhil1111111/Online-Doc.git 
+   cd Online-Doc
    ```
 
 2. **Install Dependencies**:
