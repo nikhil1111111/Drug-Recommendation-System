@@ -1,0 +1,11 @@
+Pharmacovigilance System using Sentiment Analysis of Drug Reviews for Disease Diagnosis and Treatment Recommendation
+
+MediPredix
+
+Pharmaceutical Sentiment Analysis System" or "PSAS.
+
+Pharmaceutical Sentiment Analysis System" or "PSAS.
+
+Medication Sentiment Analysis Platform" (MSAP), or "Clinical Review and Drug Assessment Tool" (CRDAT)
+
+Medication Intelligence: Predicting Diseases and Recommending Treatments through Drug Review Sentiment Analysis
