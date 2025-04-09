@@ -1,15 +1,3 @@
----
-title: Drugrecommendationsystem
-emoji: 🔥
-colorFrom: yellow
-colorTo: yellow
-sdk: streamlit
-app_file: app.py
-pinned: false
-license: mit
-duplicated_from: shibinashraf/drugrecommendationsystem
----
-
 # Patient Diagnosis and Drug Recommendation System (PDDRS)
 
 ## Overview
